@@ -1,0 +1,13 @@
+=== Gesture Classification Report ===
+
+              precision    recall  f1-score   support
+
+    1_finger       1.00      1.00      1.00       651
+   2_fingers       0.99      1.00      1.00       405
+   3_fingers       0.00      0.00      0.00         1
+   4_fingers       0.00      0.00      0.00         1
+   5_fingers       0.00      0.00      0.00         1
+
+    accuracy                           1.00      1059
+   macro avg       0.40      0.40      0.40      1059
+weighted avg       0.99      1.00      1.00      1059
